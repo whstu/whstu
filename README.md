@@ -32,10 +32,16 @@
 ## 💬联系方式!
 <p>
   <a href="https://whstu.pages.dev">
-    <img src="https://img.shields.io/badge/zhuoran3-1DA1F2?style=for-the-badge&logo=zhuoran3&logoColor=white">
+    <img src="https://img.shields.io/badge/卓三官网-1DA1F2?style=for-the-badge&logo=zhuoran3&logoColor=white">
   </a>
-  <a href="mailto:jackuxl2019@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=qqmail&logoColor=white">
+  <a href="mailto:2481729398@qq.com">
+    <img src="https://img.shields.io/badge/QQmail-D14836?style=for-the-badge&logo=qqmail&logoColor=white">
+  </a>
+  <a href="mailto:whstu666@outlook.com">
+    <img src="https://img.shields.io/badge/outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white">
+  </a>
+  <a href="mailto:whstu666@outlook.com">
+    <img src="https://img.shields.io/badge/outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white">
   </a>
 </p>
 <!--
