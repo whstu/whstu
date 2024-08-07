@@ -40,9 +40,6 @@
   <a href="mailto:whstu666@outlook.com">
     <img src="https://img.shields.io/badge/outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white">
   </a>
-  <a href="mailto:whstu666@outlook.com">
-    <img src="https://img.shields.io/badge/outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white">
-  </a>
 </p>
 <!--
 **whstu/whstu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
