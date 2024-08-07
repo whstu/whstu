@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/whstu.png?size=100" style="border-radius:50%;" alt="GitHub Avatar">
+  <img src="https://whstu.github.io/head.png?size=100" style="border-radius:50%;" alt="GitHub Avatar">
 </p>
 <h1 align="center">我是硬硬屎！</h1>
 <p align="center">
