@@ -32,10 +32,10 @@
 ## 💬联系方式!
 <p>
   <a href="https://whstu.pages.dev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=卓三官网&logoColor=white">
+    <img src="https://img.shields.io/badge/zhuoran3-1DA1F2?style=for-the-badge&logo=zhuoran3&logoColor=white">
   </a>
   <a href="mailto:jackuxl2019@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=qqmail&logoColor=white">
   </a>
 </p>
 <!--
