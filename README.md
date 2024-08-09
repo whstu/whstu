@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://whstu.github.io/head.png?size=100" style="border-radius:50%;" alt="GitHub Avatar">
-  <img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif?size=50" style="border-radius:50%;" alt="Paris 2024">
+  <img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif?size=100" style="border-radius:50%;" alt="Paris 2024">
 </p>
 <h1 align="center">我是硬硬屎！</h1>
 <p align="center">
