@@ -5,7 +5,7 @@
   <img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" height="146" width="146" style="border-radius:50%;" alt="Paris 2024">
   <img src="https://milanocortina2026.olympics.com/s3fs-public/images/2024-03/milano-cortina-2026-2.gif" height="146" width="146" style="border-radius:50%;" alt="GitHub Avatar">
 </p>
-<h1 align="center">我是硬硬屎！</h1>
+<h1 align="center">我是WHSTU！</h1>
 <p align="center">
   <!-- GitHub stats graph -->
   <a href="https://github.com/whstu">
