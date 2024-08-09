@@ -3,6 +3,7 @@
   <img src="https://www.aichi-nagoya2026.org/assets/img/tournament/slogan_p001.jpg" height="146" width="146" style="border-radius:50%;" alt="GitHub Avatar">
   <img src="https://whstu.github.io/head.png" height="146" width="146" style="border-radius:50%;" alt="GitHub Avatar">
   <img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" height="146" width="146" style="border-radius:50%;" alt="Paris 2024">
+  <img src="https://milanocortina2026.olympics.com/s3fs-public/images/2024-03/milano-cortina-2026-2.gif" height="146" width="146" style="border-radius:50%;" alt="GitHub Avatar">
 </p>
 <h1 align="center">我是硬硬屎！</h1>
 <p align="center">
