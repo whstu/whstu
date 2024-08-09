@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://whstu.github.io/index_files/logo.svg" height="146" width="146" style="border-radius:50%;" alt="GitHub Avatar">
+  <img src="https://www.aichi-nagoya2026.org/assets/img/tournament/slogan_p001.jpg" height="146" width="146" style="border-radius:50%;" alt="GitHub Avatar">
   <img src="https://whstu.github.io/head.png" height="146" width="146" style="border-radius:50%;" alt="GitHub Avatar">
   <img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" height="146" width="146" style="border-radius:50%;" alt="Paris 2024">
 </p>
