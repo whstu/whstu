@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://whstu.github.io/head.png?size=100" style="border-radius:50%;" alt="GitHub Avatar">
+  <img src="https://whstu.github.io/index_files/logo.svg?size=100" style="border-radius:50%;" alt="Paris 2024">
 </p>
 <h1 align="center">我是硬硬屎！</h1>
 <p align="center">
