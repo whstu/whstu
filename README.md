@@ -9,13 +9,25 @@
 <p align="center">
   <!-- GitHub stats graph -->
   <a href="https://github.com/whstu">
-    <img src="https://github-readme-stats.vercel.app/api?username=whstu&show_icons=true&line_height=27" alt="whstu的 GitHub Stats" height="170">
+    <img src="https://github-readme.whstu.dpdns.org/api/index/?username=whstu&show_icons=true&line_height=27" alt="whstu的 GitHub Stats" height="170">
   </a>
-  <!-- GitHub top languages graph -->
   <a href="https://github.com/whstu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whstu&layout=compact&langs_count=5" alt="最擅长的语言" height="170">
+    <img src="https://github-readme.whstu.dpdns.org/api/index/?username=whstu&show_icons=true&line_height=27&include_all_commits=true" alt="whstu的 GitHub Stats" height="170">
   </a>
 </p>
+<p align="center">
+  <!-- GitHub top languages graph -->
+  <a href="https://github.com/whstu">
+    <img src="https://github-readme.whstu.dpdns.org/api/top-langs/?username=whstu&layout=compact&langs_count=8&hide=JavaScript,CSS,SCSS,PHP&card_width=400" alt="最擅长的语言" height="170">
+  </a>
+  <a href="https://github.com/whstu/SeewoKiller">
+    <img src="https://github-readme.whstu.dpdns.org/api/pin/?username=whstu&repo=SeewoKiller" alt="SeewoKiller" height="170">
+  </a>
+</p>
+
+## 📂Projects
+[![SeewoKiller](https://github-readme.whstu.dpdns.org/api/pin/?username=whstu&repo=SeewoKiller)](https://github.com/whstu/SeewoKiller)
+[![SeewoKiller](https://github-readme.whstu.dpdns.org/api/pin/?username=whstu&repo=whstu.github.io)](https://github.com/whstu/whstu.github.io)
 
 ## 🛠 Skills
 #### 👍擅长:
