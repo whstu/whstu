@@ -9,6 +9,12 @@
 <p align="center">
   <!-- GitHub stats graph -->
   <a href="https://github.com/whstu">
+    <img src="https://github.com/whstu/whstu/blob/main/assets/github-contribution-grid-snake.gif" alt="whstu的 GitHub Stats" height="170">
+  </a>
+</p>
+<p align="center">
+  <!-- GitHub stats graph -->
+  <a href="https://github.com/whstu">
     <img src="https://github-readme.whstu.dpdns.org/api/index/?username=whstu&show_icons=true&line_height=27" alt="whstu的 GitHub Stats" height="170">
   </a>
   <a href="https://github.com/whstu">
