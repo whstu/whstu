@@ -6,37 +6,9 @@
   <img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" height="146" width="146" style="border-radius:50%;" alt="Github">
 </p>
 <h1 align="center">我是WHSTU！</h1>
-<p align="center">
-  <!-- GitHub stats graph -->
-  <a href="https://github.com/whstu">
-    <img src="https://github.com/whstu/whstu/blob/main/assets/github-contribution-grid-snake.gif" alt="whstu的 GitHub Stats" height="170">
-  </a>
-</p>
-<p align="center">
-  <!-- GitHub stats graph -->
-  <a href="https://github.com/whstu">
-    <img src="https://github-readme.whstu.dpdns.org/api/index/?username=whstu&show_icons=true&line_height=27" alt="whstu的 GitHub Stats" height="170">
-  </a>
-  <a href="https://github.com/whstu">
-    <img src="https://github-readme.whstu.dpdns.org/api/index/?username=whstu&show_icons=true&line_height=27&include_all_commits=true" alt="whstu的 GitHub Stats" height="170">
-  </a>
-</p>
-<p align="center">
-  <!-- GitHub top languages graph -->
-  <a href="https://github.com/whstu">
-    <img src="https://github-readme.whstu.dpdns.org/api/top-langs/?username=whstu&layout=compact&langs_count=8&hide=JavaScript,CSS,SCSS,PHP&card_width=400" alt="最擅长的语言" height="170">
-  </a>
-  <a href="https://github.com/whstu/SeewoKiller">
-    <img src="https://github-readme.whstu.dpdns.org/api/pin/?username=whstu&repo=SeewoKiller" alt="SeewoKiller" height="170">
-  </a>
-</p>
-
-## 📂Projects
-[![SeewoKiller](https://github-readme.whstu.dpdns.org/api/pin/?username=whstu&repo=SeewoKiller)](https://github.com/whstu/SeewoKiller)
-[![SeewoKiller](https://github-readme.whstu.dpdns.org/api/pin/?username=whstu&repo=whstu.github.io)](https://github.com/whstu/whstu.github.io)
 
 ## 🛠 Skills
-#### 👍擅长:
+#### 👍会一点:
 <p>
   <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
